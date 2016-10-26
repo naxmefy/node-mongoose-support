@@ -16,6 +16,9 @@
     "plugins",
     "support"
   ],
+  "engines": {
+    "node": ">=6"
+  },
   "author": "MRW Neundorf <m.neundorf@live.de>",
   "license": "MIT",
   "bugs": {
