@@ -30,5 +30,11 @@
     "mocha": "^3.1.2",
     "mongoose": "^4.6.5",
     "should": "^11.1.1"
+  },
+  "dependencies": {
+    "lodash": "^4.16.4",
+    "mongoose-hidden": "^0.6.4",
+    "mongoose-relationship": "^0.1.5",
+    "mongoose-sequence": "^3.1.0"
   }
 }

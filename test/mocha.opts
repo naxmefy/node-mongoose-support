@@ -1,3 +1,4 @@
 --recursive
 --colors
+--require test/spec_helper
 --require should
