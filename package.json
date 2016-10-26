@@ -1,0 +1,31 @@
+{
+  "name": "mongoose-support",
+  "version": "0.0.0",
+  "description": "some mongoose extensions",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naxmefy/node-mongoose-support.git"
+  },
+  "keywords": [
+    "mongoose",
+    "schema",
+    "plugins",
+    "support"
+  ],
+  "author": "MRW Neundorf <m.neundorf@live.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naxmefy/node-mongoose-support/issues"
+  },
+  "homepage": "https://github.com/naxmefy/node-mongoose-support#readme",
+  "devDependencies": {
+    "@naxmefy/env": "^1.0.1",
+    "mocha": "^3.1.2",
+    "mongoose": "^4.6.5",
+    "should": "^11.1.1"
+  }
+}
